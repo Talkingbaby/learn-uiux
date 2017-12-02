@@ -18,10 +18,10 @@ If you would like to contribute to the list or styling of the markdown then:
 All UI related articles/resources will go into this section.
 
 ### Fonts
-[fontpair.co](http://fontpair.co/)
+* [fontpair.co](http://fontpair.co/)
 
 ### React
-[React Daily UI](https://www.fullstackreact.com/react-daily-ui/)
+* [React Daily UI](https://www.fullstackreact.com/react-daily-ui/)
 
 ### Medium
 
