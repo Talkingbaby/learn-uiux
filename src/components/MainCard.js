@@ -11,9 +11,11 @@ const styles = theme => ({
     display: 'flex',
     justifyContent: 'center',
     alignItems: 'center',
+    marginLeft: '2rem',
+    marginRight: '2rem',
   },
   title: {
-    fontSize: '2rem',
+    fontSize: '5rem',
     color: theme.palette.text.secondary,
   },
 });
@@ -22,7 +24,6 @@ function MainCard(props) {
   const { classes, choice } = props;
 
   return (
-    <div>
       <Card className={classes.card}>
         <CardContent>
           <Typography className={classes.title}>
@@ -30,7 +31,6 @@ function MainCard(props) {
           </Typography>
         </CardContent>
       </Card>
-    </div>
   );
 }
 
