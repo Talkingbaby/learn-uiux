@@ -7,7 +7,8 @@ import Typography from 'material-ui/Typography';
 
 const styles = theme => ({
   card: {
-    width: 275,
+    width: '20%',
+    margin: '1rem'
     // height: '20rem',
     // display: 'flex',
     // justifyContent: 'center',
