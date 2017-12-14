@@ -35,4 +35,4 @@ All UI related articles/resources will go into this section.
 All UX related articles/resources will go into this section.
 
 ### Publicatons
-* [UX Magazine] (http://uxmag.com/)
+* [UX Magazine](http://uxmag.com/)
