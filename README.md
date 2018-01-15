@@ -17,6 +17,9 @@ If you would like to contribute to the list or styling of the markdown then:
 ## UI
 All UI related articles/resources will go into this section.
 
+### Publications
+* [daily ui](http://www.dailyui.co/)
+
 ### Fonts
 * [fontpair.co](http://fontpair.co/)
 
@@ -29,7 +32,7 @@ All UI related articles/resources will go into this section.
 ### React
 * [React Daily UI](https://www.fullstackreact.com/react-daily-ui/)
 
-### Medium
+### Medium Articles
 
 ## UX
 All UX related articles/resources will go into this section.
