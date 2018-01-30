@@ -5,11 +5,10 @@ import Nav from './components/Nav';
 import MainCard from './components/MainCard';
 import DataCard from './components/DataCard';
 
-import { ui, ux } from './data/uiux';
+import uiux from './data/uiux';
 
-const UI = Object.entries(ui);
-
-console.log(UI);
+// const UI = Object.entries(ui);
+// const UX = Object.entries(ux);
 
 const styles = {
   main: {
@@ -22,7 +21,6 @@ const styles = {
     display: 'flex',
     justifyContent: 'center',
     flexWrap: 'wrap'
-    // alignItems: 'center',
   }
 }
 
@@ -38,17 +36,10 @@ class App extends Component {
         </div>
         <div style={styles.sub}>
           {
-            UI.map((data) => {
-              return data[1].map((item) => {
+            uiux.map((item) => {
                 return <DataCard ui={item} key={item.url}/>;
-              });
             })
           }
-          {/* {
-            ui.fonts.map((item, i) => {
-              return <DataCard ui={item} key={i}/>;
-            })
-          } */}
         </div>
       </div>
     );
