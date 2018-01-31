@@ -34,6 +34,21 @@ const uiux = [
         url: 'http://uxmag.com/',
         tag: ['ux', 'publications']
     },
+    {
+        title: 'Beautiful Web Type',
+        url: 'http://hellohappy.org/beautiful-web-type/',
+        tag: ['ui', 'fonts']
+    },
+    {
+        title: 'Psychology of Shapes',
+        url: 'https://uxplanet.org/knock-design-into-shape-psychology-of-shapes-6e43c6e59955',
+        tag: ['ux', 'medium']
+    },
+    {
+        title: 'The UX Alphabet… A to M',
+        url: 'https://appsandbiscuits.com/the-ux-alphabet-a-to-m-92b573387b08',
+        tag: ['ux', 'medium']
+    },
 ];
 
 

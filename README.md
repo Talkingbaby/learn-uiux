@@ -1,5 +1,5 @@
 # learn-uiux
-A curated list of resources to aid in the learning of UI and UX
+A curated list of resources to aid in the learning of UI and UX. UI will focus more on design and UX will focus on better usability.
 
 ## Contribute
 If you would like to contribute to the list or styling of the markdown then:
@@ -22,6 +22,7 @@ All UI related articles/resources will go into this section.
 
 ### Fonts
 * [fontpair.co](http://fontpair.co/)
+* [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/)
 
 ### CSS Libraries
 * [bulma.io](https://bulma.io/documentation/overview/start/)
@@ -39,3 +40,7 @@ All UX related articles/resources will go into this section.
 
 ### Publicatons
 * [UX Magazine](http://uxmag.com/)
+
+### Medium Articles
+* [Psychology of Shapes](https://uxplanet.org/knock-design-into-shape-psychology-of-shapes-6e43c6e59955)
+* [The UX Alphabet… A to M](https://appsandbiscuits.com/the-ux-alphabet-a-to-m-92b573387b08)
