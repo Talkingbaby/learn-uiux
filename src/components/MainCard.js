@@ -13,6 +13,7 @@ const styles = theme => ({
     alignItems: 'center',
     marginLeft: '2rem',
     marginRight: '2rem',
+    cursor: 'pointer'
   },
   title: {
     fontSize: '5rem',
@@ -21,10 +22,10 @@ const styles = theme => ({
 });
 
 function MainCard(props) {
-  const { classes, choice } = props;
+  const { classes, choice, filter } = props;
 
   return (
-      <Card className={classes.card}>
+      <Card className={classes.card} onClick={filter}>
         <CardContent>
           <Typography className={classes.title}>
             {choice}

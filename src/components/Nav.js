@@ -10,20 +10,23 @@ const styles = theme => ({
     marginTop: theme.spacing.unit * 3,
     width: '100%',
   },
+  tool: {
+    display: 'flex',
+    justifyContent: 'space-between'
+  }
 });
 
 function Nav(props) {
   const { classes } = props;
   return (
-    <div className={classes.root}>
-      <AppBar position="static" color="default">
-        <Toolbar>
+      <AppBar className={classes.root} position="static" color="default">
+        <Toolbar className={classes.tool}>
           <Typography type="title" color="inherit">
             Learn UI/UX
           </Typography>
+          <a href="https://github.com/Talkingbaby/learn-uiux"><i className="fa fa-github" aria-hidden="true" /></a>
         </Toolbar>
       </AppBar>
-    </div>
   );
 }
 

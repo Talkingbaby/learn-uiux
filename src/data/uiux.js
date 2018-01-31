@@ -27,7 +27,7 @@ const uiux = [
     {
         title: 'React Daily UI',
         url: 'https://www.fullstackreact.com/react-daily-ui/',
-        tag: 'react'
+        tag: ['react', 'ui']
     },
     {
         title: 'UX Magazine',
