@@ -22,10 +22,10 @@ const styles = theme => ({
 });
 
 function MainCard(props) {
-  const { classes, choice, filter } = props;
+  const { classes, choice, show } = props;
 
   return (
-      <Card className={classes.card} onClick={filter}>
+      <Card className={classes.card} onClick={show}>
         <CardContent>
           <Typography className={classes.title}>
             {choice}

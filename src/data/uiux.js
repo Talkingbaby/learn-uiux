@@ -2,32 +2,32 @@ const uiux = [
     {
         title: 'fontpair',
         url: 'http://fontpair.co/',
-        tag: ['fonts', 'ui']
+        tag: ['ui', 'fonts']
     },
     {
         title: 'bulma',
         url: 'https://bulma.io/documentation/overview/start/',
-        tag: ['css', 'ui']
+        tag: ['ui','css']
     },
     {
         title: 'bootstrap',
         url: 'http://getbootstrap.com/',
-        tag: ['css', 'ui']
+        tag: ['ui','css']
     },
     {
         title: 'materialize',
         url: 'http://materializecss.com/getting-started.html',
-        tag: ['css', 'ui']
+        tag: ['ui','css']
     },
     {
         title: 'w3.css',
         url: 'https://www.w3schools.com/w3css/',
-        tag: ['css', 'ui']
+        tag: ['ui','css']
     },
     {
         title: 'React Daily UI',
         url: 'https://www.fullstackreact.com/react-daily-ui/',
-        tag: ['react', 'ui']
+        tag: [ 'ui', 'react']
     },
     {
         title: 'UX Magazine',
