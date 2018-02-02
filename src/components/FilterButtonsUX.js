@@ -14,7 +14,7 @@ const styles = {
 function FilterButtonsUX(props) {
     return (
         <div style={styles.root}>
-            <Button onClick={props.filterUI}>All</Button>
+            <Button onClick={props.filterUX}>All</Button>
             <Button onClick={props.medium}>Medium</Button>
             <Button onClick={props.pub}>Publications</Button>
             <Button onClick={props.back}>Back</Button>
